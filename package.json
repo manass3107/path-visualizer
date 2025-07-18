@@ -1,12 +1,16 @@
 {
-  "name": "src",
+
+  "name": "path-visualizer",
   "version": "1.0.0",
-  "main": "index.js",
+  "homepage": "https://manass3107.github.io/path-visualizer",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
+
   "browserslist": {
     "production": [
       ">0.2%",
@@ -19,7 +23,6 @@
       "last 1 safari version"
     ]
   },
-  
   "keywords": [],
   "author": "",
   "license": "ISC",
@@ -27,5 +30,8 @@
   "dependencies": {
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
