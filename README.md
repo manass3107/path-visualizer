@@ -2,6 +2,9 @@
 
 A simple React-based pathfinding visualizer built to demonstrate basic algorithms and grid traversal.
 
+🔗 **Live Demo:** [Click here to view the deployed app](https://manass3107.github.io/path-visualizer/)
+
+
 ## 🚀 Features
 
 - Grid-based interface
