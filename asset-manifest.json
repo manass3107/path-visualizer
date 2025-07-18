@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/path-visualizer/static/css/main.40754468.css",
+    "main.js": "/path-visualizer/static/js/main.621740b4.js",
+    "index.html": "/path-visualizer/index.html",
+    "main.40754468.css.map": "/path-visualizer/static/css/main.40754468.css.map",
+    "main.621740b4.js.map": "/path-visualizer/static/js/main.621740b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40754468.css",
+    "static/js/main.621740b4.js"
+  ]
+}
