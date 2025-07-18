@@ -10,6 +10,20 @@ A simple React-based pathfinding visualizer built to demonstrate basic algorithm
 
 ## 📸 Screenshots
 
+> Located in `/public/screenshots/`
+
+### 🟩 Grid View
+
+![Grid](./public/screenshots/Grid.png)
+
+### 🔵 Path using BFS
+
+![BFS](./public/screenshots/Path%20using%20bfs.png)
+
+### 🔴 Path using DFS
+
+![DFS](./public/screenshots/Path%20using%20dfs.png)
+
 
 ## 🛠️ Tech Stack
 
