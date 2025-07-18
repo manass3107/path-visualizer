@@ -6,11 +6,10 @@ A simple React-based pathfinding visualizer built to demonstrate basic algorithm
 
 - Grid-based interface
 - Interactive path selection
-- Basic visualization of algorithms (like BFS, DFS, Dijkstra’s – optional)
+- Basic visualization of algorithms (like BFS, DFS)
 
 ## 📸 Screenshots
 
-*(Insert screenshots or screen recording here)*
 
 ## 🛠️ Tech Stack
 
